@@ -1,0 +1,7 @@
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\bin\Debug\soluciones guia 7.2.exe.config
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\bin\Debug\soluciones guia 7.2.exe
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\bin\Debug\soluciones guia 7.2.pdb
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\obj\Debug\condicion.alumno.csproj.AssemblyReference.cache
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\obj\Debug\condicion.alumno.csproj.CoreCompileInputs.cache
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\obj\Debug\soluciones guia 7.2.exe
+C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\soluciones guia 7.2\obj\Debug\soluciones guia 7.2.pdb
