@@ -1,7 +1,0 @@
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\bin\Debug\positivo,negativo,cero.exe.config
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\bin\Debug\positivo,negativo,cero.exe
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\bin\Debug\positivo,negativo,cero.pdb
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\obj\Debug\positivo,negativo,cero.csproj.AssemblyReference.cache
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\obj\Debug\positivo,negativo,cero.csproj.CoreCompileInputs.cache
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\obj\Debug\positivo,negativo,cero.exe
-C:\Users\santii\Desktop\guia 7.2\soluciones guia 7.2\positivo,negativo,cero\obj\Debug\positivo,negativo,cero.pdb

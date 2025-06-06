@@ -1,7 +1,0 @@
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\bin\Debug\Tenis.exe.config
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\bin\Debug\Tenis.exe
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\bin\Debug\Tenis.pdb
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\obj\Debug\Tenis.csproj.AssemblyReference.cache
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\obj\Debug\Tenis.exe
-C:\Users\santii\Desktop\todas las actividades\guia 7-2\tup_prog_1_2025_guia7.2\tenis guia 7-3\Tenis\obj\Debug\Tenis.pdb
