@@ -1,0 +1,7 @@
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\bin\Debug\orden-del-menor-7-2.exe.config
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\bin\Debug\orden-del-menor-7-2.exe
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\bin\Debug\orden-del-menor-7-2.pdb
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\obj\Debug\orden-del-menor-7-2.csproj.AssemblyReference.cache
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\obj\Debug\orden-del-menor-7-2.csproj.CoreCompileInputs.cache
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\obj\Debug\orden-del-menor-7-2.exe
+C:\Users\santii\Desktop\repositorio facultad\orden-del-menor-7-2\orden-del-menor-7-2\obj\Debug\orden-del-menor-7-2.pdb
