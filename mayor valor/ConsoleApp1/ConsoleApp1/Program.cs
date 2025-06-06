@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lista_ordenada
+namespace ConsoleApp1
 {
-    class lista_ordenada
+    class Program
     {
         static void Main(string[] args)
+
         {
         }
     }
